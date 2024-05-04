@@ -1,0 +1,14 @@
+BENTO-MVC CLI
+
+bentomvc [command] [options]
+
+Commands:
+  bentomvc init                             Initializes project
+  bentomvc generate:api                     Generates Model/Migration/Controller/Route/SwaggerDoc
+  bentomvc generate:model                   Generates Model/Migration
+  bentomvc generate:controller              Generates Controllers
+  bentomvc generate:route                   Generates Routes
+  bentomvc generate:swagger                 Generates Swagger Documentation
+
+Options:
+  --help      Show help

@@ -1,0 +1,25 @@
+{
+  "name": "bentomvc",
+  "version": "0.0.1",
+  "description": "BENTO-MVC a boilerplate generator for Express.js projects using MVC architecture",
+  "keywords": [
+    "bentomvc"
+  ],
+  "main": "cli.js",
+  "author": "Bento-SR",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chongsinran/bentomvc"
+  },
+  "bugs": {
+    "url": "https://github.com/chongsinran/bentomvc/issues",
+    "email": "chongsinran@gmail.com"
+  },
+  "scripts": {
+    "bentomvc": "node cli.js"
+  },
+  "bin": {
+    "bentomvc": "./cli.js"
+  }
+}
