@@ -24,7 +24,7 @@ const swaggerDefinition = {
     },
     contact: {
       name: "BENTO-MVC",
-      url: "https://github.com/kenaszogara/bentomvc",
+      url: "https://github.com/chongsinran/bentomvc",
     },
   },
   servers: [
